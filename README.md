@@ -10,7 +10,7 @@ Eu sou o Alexander, estudante de Análise e Desenvolvimento de Sistemas na Unint
 ---
 
 **Alguns projetos que desenvolvi:**
-- [Projeto-Walmart](https://github.com/AlexanderCoelh/Projeto-Walmart) -  A self portrait that blinks and is fully customizable with variables.
+- [Projeto-Walmart](https://github.com/AlexanderCoelh/Projeto-Walmart) -  Análise exploratória das vendas do Walmart em Python (pandas), com foco em desempenho e tendências.
 
 ---
 
