@@ -1,13 +1,12 @@
-# 📊 Alexander Coelho
+Oi!
+Eu sou o Alexander, estudante de Análise e Desenvolvimento de Sistemas na Uninter. Gosto de trabalhar com dados, transformar informações em insights visuais e criar dashboards claros, organizados e objetivos.
+---
 
-**`Estudante de Data Analyst`**
+Atualmente estou focado em:
 
-Olá! Sou Alexander Monteiro Coelho, tenho 20 anos e sou natural do Rio de Janeiro. Sou formado no ensino médio técnico em Redes de Computadores pela Firjan SENAI e atualmente curso Análise e Desenvolvimento de Sistemas na Uninter.
-
-Tenho direcionado meus estudos para a área de Dados, onde já tive experiência prática no desenvolvimento de dashboards no Power BI para apoio à tomada de decisão. Atualmente, aprofundo meus conhecimentos em SQL e Python (Pandas), com foco em análise, tratamento e visualização de dados.
-
-Neste GitHub, compartilho meus projetos, estudos e minha evolução contínua na área de tecnologia e dados. "[Alexander Coelho](https://www.linkedin.com/in/alexander-coelho-1018a3276/)"
-
+SQL, Python e Power BI
+ETL e modelagem de dados
+Dashboards interativos e análises visuais bem estruturadas
 
 ---
 
