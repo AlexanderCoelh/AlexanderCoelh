@@ -11,6 +11,8 @@ Eu sou o Alexander, estudante de Análise e Desenvolvimento de Sistemas na Unint
 
 **Alguns projetos que desenvolvi:**
 - [Projeto-Walmart](https://github.com/AlexanderCoelh/Projeto-Walmart) -  Análise exploratória das vendas do Walmart em Python (pandas), com foco em desempenho e tendências.
+- [marketing-data-pipeline](https://github.com/AlexanderCoelh/marketing-data-pipeline) -  Projeto de análise de dados de marketing com SQL e Power BI, focado em comportamento de clientes e resultados de campanhas.
+
 
 ---
 
